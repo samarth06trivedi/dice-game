@@ -1,5 +1,5 @@
-let p1 = Math.floor(Math.random()*6 + 1);
-let p2 = Math.floor(Math.random()*6 + 1);
+let p1 = Math.floor(Math.random()*6) + 1;
+let p2 = Math.floor(Math.random()*6) + 1;
 
 /* playr 1 */
 if(p1==2){
